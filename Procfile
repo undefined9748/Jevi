@@ -1,1 +1,1 @@
-web: node ./app.js Bellicosa https://entjevi.herokuapp.com
+web: node ./app.js Bellicosa https://id-belicosa-jevi.herokuapp.com
